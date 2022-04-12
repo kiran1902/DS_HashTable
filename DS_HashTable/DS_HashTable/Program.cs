@@ -24,6 +24,7 @@ hash.Add("17", "avoidable");
 hash.Add("18", "situations");
 
 
+hash.Remove("10");
 
 
 string hash0 = hash.Get("0");
